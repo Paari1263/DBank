@@ -1,6 +1,6 @@
 # To Run this Code
 
-#Prequsites : 
+# Prequsites : 
 ## => dfinity
 ## => node
 ## => WSL
