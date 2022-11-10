@@ -1,4 +1,9 @@
-# Run Completed Code
+# To Run this Code
+
+#Prequsites : 
+  => dfinity
+  => node
+  => WSL
 
 1. Make sure dfx is running
 
